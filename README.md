@@ -8,3 +8,5 @@ It features:
 * HK2 (JSR-330): dependency injection
 * Hibernate (JPA): ORM
 * Flyway: Database migrations
+
+This application is ready to deploy on Heroku
